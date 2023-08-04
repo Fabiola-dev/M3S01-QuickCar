@@ -1,6 +1,6 @@
-# QuickcarProject
+# QuickCar Store 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.7.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.7. [Bootstrap](https://getbootstrap.com/) version 5.3.1. At `angular.json`, add build>styles>"node_modules/bootstrap/dist/css/bootstrap.min.css".
 
 ## Development server
 
